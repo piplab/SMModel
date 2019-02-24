@@ -1,0 +1,16 @@
+PODS:
+  - SMModel (0.1.0)
+
+DEPENDENCIES:
+  - SMModel (from `../`)
+
+EXTERNAL SOURCES:
+  SMModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SMModel: bf596baec9b4fb68973cf02bf419293f358721c8
+
+PODFILE CHECKSUM: cc47155cc83dd32c78d6ad0dcd41f8ad2ccdd502
+
+COCOAPODS: 1.6.1

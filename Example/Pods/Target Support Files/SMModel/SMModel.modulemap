@@ -1,0 +1,6 @@
+framework module SMModel {
+  umbrella header "SMModel-umbrella.h"
+
+  export *
+  module * { export * }
+}
